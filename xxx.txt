@@ -1,4 +1,8 @@
 1234567890
+<<<<<<< HEAD
 xxx
 能成功么
 再试一下
+=======
+xx奥斯卡adssedfghjnhgfdsasddkgpkjgp[lw
+>>>>>>> 00916a73f15ee5d3770d4441d6abbe3db3468dc1
